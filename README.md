@@ -1,2 +1,3 @@
-# flostar_overview
-The introduction to some of the features of Flostar for iOS.
+# Flostar (iOS)
+The app made for dancers.
+See on the [App Store](https://apps.apple.com/us/app/flostar/id1598569974)
